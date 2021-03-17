@@ -1,8 +1,6 @@
-# p-movil
-Papelera Móvil con Arduino
-Mobile Trashcan with Arduino
+# Papelera Móvil con Arduino / Mobile Trashcan with Arduino
 
-Este código es absolutamente horrible, quedan advertidos. Corresponde a otra época de mi vida, y por suerte ahora tengo mejores prácticas de programación. Además lo tuve que hacer a las apuradas, cosa que no ayudó mucho.
+Este código es absolutamente horrible, quedan advertidos. Corresponde a otra época de mi vida, y por suerte ahora tengo mejores prácticas de programación. Además lo tuve que hacer a las apuradas, cosa que no ayudó.
 
 De cualquier forma, el robot funcionó bien!
 
